@@ -1,6 +1,7 @@
 name: astra-odl-environment
 channels:
-  - conda-forge
+  - astra-toolbox
+  - odlgroup
 dependencies:
   - astra-toolbox
   - odl
