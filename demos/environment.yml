@@ -1,7 +1,8 @@
 name: astra-odl-environment
 channels:
-  - astra-toolbox
   - odlgroup
-dependencies:
   - astra-toolbox
+
+dependencies:
   - odl
+  - astra-toolbox
